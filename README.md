@@ -1,11 +1,14 @@
 # Product Dashboard
 
-**Product Dashboard** is a responsive web application for managing product inventories. Features include adding, editing, searching, sorting, and deleting products. Built with React, TypeScript, and Vite for fast development and performance.
+**Product Dashboard** is a responsive web application for managing product inventories. Features include adding, editing, searching, sorting, and deleting products.
 
-<img src="image_2025-11-04_11-48-30.png" width="300"/>
-<img src="image_2025-11-04_11-48-52.png" width="300"/>
-<img src="image_2025-11-04_11-49-17.png" width="300"/>
-<img src="image_2025-11-04_11-49-59.png" width="300"/>
+## Built with React, TypeScript, and Vite
+
+<img src="image_2025-11-04_11-49-59.png" />
+<img src="image_2025-11-04_11-48-30.png" />
+<img src="image_2025-11-04_11-48-52.png" />
+<img src="image_2025-11-04_11-49-17.png" />
+
 
 
 ## Features
